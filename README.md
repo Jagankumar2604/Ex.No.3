@@ -24,30 +24,6 @@ In this experiment, four different prompting techniques are implemented and eval
 3. **Preceding Question Prompting:** Providing related questions before the main instruction to establish context.
 4. **Missing Word Prompting:** Providing incomplete sentences with blanks for the AI model to complete.
 
-## Use Case – Smart Agriculture System (Unit 5)
-
-Smart agriculture is a modern farming approach that uses advanced technologies such as Artificial Intelligence, Internet of Things (IoT), drones, GPS, and automated irrigation systems to improve agricultural productivity.
-
-Traditional farming methods often face challenges such as unpredictable weather conditions, water scarcity, crop diseases, labour shortages, and inefficient resource utilization.
-
-Smart agriculture provides solutions to these problems by collecting real-time agricultural data and using intelligent systems to analyze it. IoT sensors monitor soil moisture, temperature, and humidity, while AI algorithms analyze the collected information to support better farming decisions.
-
-### Objectives of Smart Agriculture
-
-- Increase crop production.
-- Reduce operational costs.
-- Conserve water and other natural resources.
-- Detect crop diseases at an early stage.
-- Promote sustainable farming practices.
-
-
-**Major Components:**
-
-- **IoT Sensors:** Collect information about soil moisture, temperature, and humidity.
-- **Artificial Intelligence:** Analyzes agricultural data and predicts crop diseases.
-- **Drones:** Monitor large agricultural fields and identify crop-related problems.
-- **GPS Technology:** Supports accurate field mapping and precision farming.
-- **Smart Irrigation:** Automatically controls water supply according to soil conditions.
 
 ## Procedure
 
